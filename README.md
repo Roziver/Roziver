@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Roziver
+- 👀 Looking for a job or internship as a Go developer
+- 🌱 Currently learning Go
+- 📫 Reach me t.me/Roziver
